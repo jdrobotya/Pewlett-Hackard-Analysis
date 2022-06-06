@@ -34,6 +34,11 @@ Step 4: Create Mentorship Eligibility table: employees with their lates title, c
 3. It appears that there is not enough staff to pass the  professional knowledge to the new hiers. Basically,  one  Senior Staff member will have to train 45 new hiers,  one Senior Engineer will have to train 48 new hiers, one regular staff member will have to train 49 new hires. 
 
 There are not  enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. A hiring manager will have to come up with some creative ideas on the onboarding and training process to avoid an HR crisis. 
-My advice would be to start the hiring process earlier even before the position becomes available, so more senior people can pass the knowledge prior to retiring.  I'd also advise training in small groups to expedite the process. 
+My advice would be to start the hiring process earlier even before the position becomes available, so more senior people can pass the knowledge prior to retiring or increase the age range availability for Mentorship program. Make people with the DOB between 1956 and 1953 eligable for Mentorship program. It will make a big impact on the training program. See quesry results below:
+
+![Screen Shot 2022-06-06 at 1 31 01 AM](https://user-images.githubusercontent.com/103322251/172101087-1c245fd1-5905-45d7-99ea-f50336ee57b9.png)
+
+
+I'd also advise training in small groups to expedite the process. 
 
 
